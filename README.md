@@ -1,12 +1,14 @@
 # JavaScript na Prática: Programação Orientada a Objetos
 
-Este é o repositório do curso 'JavaScript na Prática: Programação Orientada a Objetos'. Você pode acessar o conteúdo completo no [LinkedIn Learning](https://www.linkedin.com/learning/desafio-de-programacao-javascript).
+Este é o repositório do curso 'JavaScript na Prática: Programação Orientada a Objetos'. Você pode acessar o conteúdo completo no [LinkedIn Learning](https://www.linkedin.com/learning/javascript-na-pratica-programacao-orientada-a-objetos).
 
 ![Título completo do curso][lil-thumbnail-url]  
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas.
 
 ## Descrição do curso
+
+A linguagem de programação JavaScript, ao contrário de linguagens baseadas em classes como Java, adota um modelo procedural de protótipos que combina paradigmas funcional e orientado a objetos com sintaxe flexível. Neste curso interativo, a instrutora Amanda Cavallaro te orienta a resolver os desafios de códigos propostos essenciais para aprender a orientação a objetos, reforçando a base técnica necessária para entrevistas ou novas oportunidades. Por meio de desafios de código no CoderPad, com retorno imediato, você solucionará cinco problemas: lista de alunos, livro, país com classes, sistema de pedidos via getters/setters e pessoas usuárias e administradoras com propriedades privadas.
 
 Instruções
 Este repositório contém ramificações, ou branches, para cada um dos vídeos do curso. Caso você deseje alternar para uma ramificação específica e continuar o curso a partir daí, use o menu pop-up da ramificação no GitHub ou adicione /tree/nome_da_ramificação ao URL para acessar diretamente a ramificação desejada.
